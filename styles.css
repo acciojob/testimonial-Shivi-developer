@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+.main{
+	background-color: #f5f5f5;
+	padding: 20px;
+}
+.a{
+	background-color: white;
+	padding: 10px;
+	border: 1px solid
+}
+.b{
+	background-color: white;
+	padding: 10px;
+	border: 1px solid
+}
+#author1{
+	text-align: right;
+	font-style: italic
+}
+#author2{
+	text-align: right;
+	font-style: italic
+}
